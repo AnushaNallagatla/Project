@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="40.198052">
+<testcase classname="Title of your feature" name="search for the special offers" time="40.198052">
+<system-out><![CDATA[Given user launches the chrome application..................................passed
+When the user click on the sitemap..........................................passed
+And select special offers...................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
